@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MadLibbs2/MadLibbs2.iml" filepath="$PROJECT_DIR$/MadLibbs2/MadLibbs2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Madlibbs final/Madlibbs final.iml" filepath="$PROJECT_DIR$/Madlibbs final/Madlibbs final.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/csc160.iml" filepath="$PROJECT_DIR$/.idea/csc160.iml" />
     </modules>
   </component>
