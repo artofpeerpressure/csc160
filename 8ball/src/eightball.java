@@ -1,3 +1,4 @@
+
 public class eightball {
     public static void{
         String[] answers = {"As I see it, yes",
@@ -20,8 +21,10 @@ public class eightball {
         "Yes",
                 "Yes – definitely",
                 "You may rely on it", }
+                int randomInt = random.nextInt(10)
                 while(true){
                     System.out.println("Ask a Question");
+                    System.out.println(answers[0]);
                 }
     }
 }
